@@ -19,8 +19,11 @@ When you run python seed_gen.py, the script reads the binary data of the image. 
 
 4. Get Your Seed
 The script crunches that hash using Balatro's probability logic and spits out:
-example used 
+
+image used:
+
 ![7821cdaf7cc6bb3572e41fcc2e832ac1](https://github.com/user-attachments/assets/5d2e02f3-4dda-4485-a448-38b83c48981c)
+
 
 Plaintext
 IMAGE NAME                | GENERATED SEED
@@ -33,4 +36,4 @@ Start a New Run.
 
 Click the Customize button (bottom left).
 
-Enter 7H9L2P4X into the seed box.
+Enter 5TC9Z65R into the seed box.
